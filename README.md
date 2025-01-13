@@ -1,4 +1,4 @@
-# <img src="web-tool/public/favicon.ico" height="30pt"> MT Metrics Thresholds &nbsp;&nbsp;&nbsp; [![PyPI Version](https://img.shields.io/pypi/v/mt-thresholds)](https://pypi.org/project/mt-thresholds/) [![test MT-Thresholds](https://github.com/kocmitom/MT-Thresholds/actions/workflows/test.yml/badge.svg)](https://github.com/kocmitom/MT-Thresholds/actions/workflows/test.yml)
+# <img src="https://github.com/kocmitom/MT-Thresholds/raw/main/web-tool/public/favicon.ico" height="30pt"> MT Metrics Thresholds &nbsp;&nbsp;&nbsp; [![PyPI Version](https://img.shields.io/pypi/v/mt-thresholds)](https://pypi.org/project/mt-thresholds/) [![test MT-Thresholds](https://github.com/kocmitom/MT-Thresholds/actions/workflows/test.yml/badge.svg)](https://github.com/kocmitom/MT-Thresholds/actions/workflows/test.yml)
 
 Code for [Navigating the Metrics Maze: Reconciling Score Magnitudes and Accuracies](https://arxiv.org/pdf/2401.06760.pdf) by Tom Kocmi, Vilém Zouhar, Christian Federmann, and Matt Post.
 ```
